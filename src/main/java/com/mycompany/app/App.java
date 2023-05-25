@@ -13,7 +13,7 @@ public class App {
         System.out.println(MESSAGE);
         System.out.println("Ingreso commit Ricardo desde mi git clone");
         System.out.println("Ingreso commit Christiam desde mi git clone");
-        System.out.println("Realizando un push a la rama remota por Jorge");
+        System.out.println("Realizando un push a la rama remota por Jorge x2");
 
     }
 
