@@ -12,8 +12,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         System.out.println("Ingreso commit Ricardo desde mi git clone");
-
-        System.out.println("Ingreso commit Ricardo desde mi git clone NUEVO COMMIT");
     }
 
     public String getMessage() {
